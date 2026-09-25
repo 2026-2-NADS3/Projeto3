@@ -1,51 +1,101 @@
-
-# FECAP - Fundação de Comércio Álvares Penteado
-
-<p align="center">
-<a href= "https://www.fecap.br/"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRhZPrRa89Kma0ZZogxm0pi-tCn_TLKeHGVxywp-LXAFGR3B1DPouAJYHgKZGV0XTEf4AE&usqp=CAU" alt="FECAP - Fundação de Comércio Álvares Penteado" border="0"></a>
-</p>
-
-# Projeto - Proxima Etapa
-
-## FLBJ Project
-
-## Integrantes: <a href="www.linkedin.com/in/ozeaguiar">José Aguiar</a>, <a href="">Bruno Faccio</a>, <a href="">Luiza Alde</a>, <a href="">Fatima Gomes</a>
-
-## Professores Orientadores: <a href="">Rodrigo Rosa</a>, <a href="">Jefferson de Oliveira</a>, <a href="">Aimar Martins</a>, <a href="">Francisco Escobar</a>
-
-## Descrição
+# FECAP - Fundação Escola de Comércio Álvares Penteado
 
 <p align="center">
-<img src="[https://i.imgur.com/v9ZR6eX.png](https://imgur.com/a/GfEcJHC)" alt="ONG PRÓXIMA ETAPA" border="0">
-  App Mobile by <a href="">José Aguiar, Bruno Faccio, Luiza Alde, Fatima Gomes</a> <a rel="license" href="">FECAP LIBERDADE 3ADS</a> <a href="">moodle</a>
+  <img src="Imagens/FecapLogo.png" alt="FECAP" border="0" width="300">
 </p>
 
+## Integrantes: Fatima Gomes, Luiza Alde, Bruno Brito, José Aguiar
 
-Projeto desenvolvido com foco em otimizar e melhorar o acesso dos alunos ao ensino superior em conjunto com a Ong através de um aplicativo mobile pensando nos requisitos estipulados pelos alunos.
-<br><br>
-Nosso projeto tranforma a experiência de conseguir cupons em uma conquista, onde cada jogador poderá escolher entre fases de diferentes níveis, acertar palavras e conseguir bater pontuações que com essas pontuações poderá liberar cupons e dicas de cupons fisicos na grande São Paulo.
-<br><br>
-Antes de caçar cupons, por que não, tentarmos caçar palavras primeiros?
-<br><br>
+## Professores Orientadores: Rodrigo Rosa, Jefferson de Oliveira, Aimar Martins, Francisco Escobar
 
-## 🛠 Instalação
+---
 
-<b>Windows:</b>
-
-Não há instalação! Apenas executável!
-Encontre o JOGO.exe na pasta executáveis e execute-o como qualquer outro programa.
-
-## 📋 Licença/License
-
-<a href="https://github.com/2025-2-NADS1/Projeto2"><font dir="auto" style="vertical-align: inherit;"><font dir="auto" style="vertical-align: inherit;">PicWords</font></font></a><font dir="auto" style="vertical-align: inherit;"><font dir="auto" style="vertical-align: inherit;"> © 2025 por </font></font><a href="https://creativecommons.org"><font dir="auto" style="vertical-align: inherit;"><font dir="auto" style="vertical-align: inherit;">José Antônio da Silva de Aguiar, Luiza Sardinha Alde, Bruno de Brito Faccio, Maria Luisa Silva Lima</font></font></a><font dir="auto" style="vertical-align: inherit;"><font dir="auto" style="vertical-align: inherit;"> está licenciada sob </font></font><a href="https://creativecommons.org/licenses/by-nc-nd/4.0/"><font dir="auto" style="vertical-align: inherit;"><font dir="auto" style="vertical-align: inherit;">CC BY-NC-ND 4.0</font></font></a>
+<p align="center">
+<img src="Imagens/ProximaEtapa.png" alt="App Próxima Etapa" border="0" width="500">
 <br>
-<img src="https://mirrors.creativecommons.org/presskit/icons/cc.svg" alt="" style="max-width: 1em;max-height:1em;margin-left: .2em;"><img src="https://mirrors.creativecommons.org/presskit/icons/by.svg" alt="" style="max-width: 1em;max-height:1em;margin-left: .2em;"><img src="https://mirrors.creativecommons.org/presskit/icons/nc.svg" alt="" style="max-width: 1em;max-height:1em;margin-left: .2em;"><img src="https://mirrors.creativecommons.org/presskit/icons/nd.svg" alt="" style="max-width: 1em;max-height:1em;margin-left: .2em;">
+<strong>Projeto ONG Próxima Etapa</strong> - Aplicativo desenvolvido com o foco de facilitar o acesso dos estudantes da ONG Próxima Etapa a cursos e palestras oferecidos por instituições de ensino superior parceiras da iniciativa.
+</p>
 
-## 🎓 Referências
+<p align="justify">
+O <strong>Projeto ONG Próxima Etapa</strong> é um aplicativo mobile desenvolvido para apoiar os estudantes atendidos pela ONG Próxima Etapa, facilitando o acesso a cursos e palestras oferecidos por instituições de ensino superior parceiras da iniciativa.
+</p>
 
-Aqui estão as referências usadas no projeto.
+<p align="justify">
+Por meio do aplicativo, o aluno pode consultar a agenda de cursos e palestras e validar seu acesso por meio de um sistema de autenticação via QR Code.
+</p>
 
-1. https://youtu.be/DjNr3TP-zSA?si=gbmJ7Cj8Mq2aSVfw
-2. https://www.youtube.com/watch?v=HDyfJF9DNLQ
-3. https://www.youtube.com/watch?v=0NIXj7j1q4c
-4. https://youtu.be/lTjwm1CghDY?si=5flQCgOu_Ejmy2nl
+<p align="justify">
+A iniciativa nasceu nas escolas públicas com o objetivo de mostrar aos alunos que existem mais possibilidades além do ensino médio, apresentando cursos de iniciação nas áreas financeira, administrativa, publicitária e contábil. Em parceria com instituições de ensino superior, como a própria FECAP, os estudantes são convidados a conhecer as instituições, seus cursos e as formas de ingresso na faculdade, seja por vestibular ou por outros meios.
+</p>
+
+---
+
+## 📱 Funcionalidades
+
+- Cadastro e login de usuários;
+- Informações sobre a ONG e os cursos ministrados em parceria com as faculdades;
+- Consulta da agenda de cursos;
+- Consulta da agenda de palestras;
+- Detalhes de cada curso;
+- Autenticação de acesso via QR Code;
+- Experiência mobile desenvolvida para dispositivos Android.
+
+---
+
+## 🛠 Tecnologias Utilizadas
+
+- Figma
+- Android Studio
+- Java
+- Kotlin
+- Banco de dados SQL
+
+---
+
+## 📥 Instalação
+
+### Requisitos
+
+- Dispositivo Android 8.0 (API 26) ou superior;
+- Arquivo APK do aplicativo, disponível neste repositório.
+
+### Instalando o APK
+
+1. Faça o download do arquivo `ProximaEtapa.apk` disponível neste repositório;
+2. Transfira o APK para o dispositivo Android, caso necessário;
+3. Abra o arquivo APK;
+4. Caso solicitado, habilite a opção **"Instalar aplicativos de fontes desconhecidas"**;
+5. Conclua a instalação;
+6. Abra o aplicativo **Projeto ONG Próxima Etapa** e utilize normalmente.
+
+### Executando o Projeto no Android Studio
+
+1. Clone este repositório:
+
+```bash
+git clone https://github.com/2026-2-NADS3/Projeto3.git
+```
+
+2. Abra o projeto no Android Studio;
+3. Aguarde o download das dependências do Gradle;
+4. Conecte um dispositivo Android ou inicie um emulador;
+5. Execute o projeto através do botão **Run**.
+
+---
+
+## 🎯 Objetivos do Projeto
+
+- Facilitar o acesso dos alunos às informações da ONG e dos cursos oferecidos;
+- Aproximar os estudantes de escolas públicas das instituições de ensino superior parceiras;
+- Apresentar possibilidades acadêmicas e profissionais além do ensino médio;
+- Centralizar a agenda de cursos e palestras em uma plataforma mobile;
+- Agilizar o controle de acesso aos eventos por meio de QR Code;
+- Promover inclusão digital e educacional.
+
+---
+
+## 📋 Licença
+
+Este projeto foi desenvolvido exclusivamente para fins acadêmicos na Fundação Escola de Comércio Álvares Penteado (FECAP).
+
+O uso, modificação e distribuição deste projeto devem respeitar os direitos dos autores e da instituição.
