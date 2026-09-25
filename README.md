@@ -1,7 +1,7 @@
 # FECAP - Fundação Escola de Comércio Álvares Penteado
 
 <p align="center">
-  <img src="Imagens/FecapLogo.png" alt="FECAP" border="0" width="300">
+  <img src="https://github.com/user-attachments/assets/7c90d19e-02f0-4baf-b285-cc70aa70e3f2" alt="FECAP" border="0" width="300">
 </p>
 
 ## Integrantes: Fatima Gomes, Luiza Alde, Bruno Brito, José Aguiar
@@ -11,7 +11,7 @@
 ---
 
 <p align="center">
-<img src="Imagens/ProximaEtapa.png" alt="App Próxima Etapa" border="0" width="500">
+<img src="https://github.com/user-attachments/assets/48741a00-adec-47e5-85eb-d4acc189b7cb" alt="App Próxima Etapa" border="0" width="500">
 <br>
 <strong>Projeto ONG Próxima Etapa</strong> - Aplicativo desenvolvido com o foco de facilitar o acesso dos estudantes da ONG Próxima Etapa a cursos e palestras oferecidos por instituições de ensino superior parceiras da iniciativa.
 </p>
