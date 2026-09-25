@@ -133,8 +133,8 @@ Após várias execuções, apenas os 3 backups mais recentes permanecem na pasta
 ## Prints
 
 <p align="center">
-<img src="imagens/" alt="Screenshot from 1.png" width="400">
-<img src="imagens/" alt="Screenshot from 2.png" width="400">
-<img src="imagens/" alt="Screenshot from 3.png" width="400">
-<img src="imagens/" alt="Screenshot from 4.png" width="400">
+<img src="imagens/Screenshot from 1.png" alt="Screenshot from 1.png" width="400">
+<img src="imagens/Screenshot from 2.png" alt="Screenshot from 2.png" width="400">
+<img src="imagens/Screenshot from 3.png" alt="Screenshot from 3.png" width="400">
+<img src="imagens/Screenshot from 4.png" alt="Screenshot from 4.png" width="400">
 </p>
