@@ -1,0 +1,1 @@
+Coloque aqui o app-debug.apk (Build > Build APK(s))
