@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="background_cream">#FAF4E6</color>
+    <color name="orange_journey">#ECA72C</color>
+    <color name="purple_dark">#643481</color>
+    <color name="purple_light">#A393BF</color>
+    <color name="olive_banner">#7B886F</color>
+    <color name="text_primary">#1A1A1A</color>
+    <color name="search_bar_bg">#D9D9D9</color>
+    <color name="agenda_date_bg">#F3CE89</color>
+    <color name="text_secondary">#FF555555</color>
+    <color name="nav_indicador">#FFD4C8DE</color>
+</resources>

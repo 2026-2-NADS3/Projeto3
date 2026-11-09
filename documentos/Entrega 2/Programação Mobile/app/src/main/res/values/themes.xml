@@ -1,0 +1,12 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    
+    <style name="Base.Theme.Projeto_PI" parent="Theme.Material3.Light.NoActionBar">
+        
+    </style>
+
+    <style name="Theme.Projeto_PI" parent="Base.Theme.Projeto_PI" />
+
+    <style name="Widget.App.IndicadorAtivo" parent="Widget.Material3.BottomNavigationView.ActiveIndicator">
+        <item name="android:color">@color/nav_indicador</item>
+    </style>
+</resources>
